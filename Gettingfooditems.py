@@ -1,3 +1,9 @@
+#DATA Taken from
+
+#https://en.wikipedia.org/wiki/List_of_Indian_dishes
+
+
+
 data='''Aloo gobi	Aloo gobi.jpg	Cauliflower with potatoes sautéed with garam masala, turmeric, sometimes kalonji and curry leaves.	Vegetarian
 Aloo tikki	Aloo Tikki served with chutneys.jpg	Patties of potato mixed with some vegetables fried	Vegetarian
 Aloo matar	Aloo Mattar.jpg	Potatoes and peas in curry	Vegetarian
